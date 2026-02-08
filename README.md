@@ -31,6 +31,13 @@ Using the open-source **DeepSeek-V3** model, our experiments demonstrate that **
 🛠️ Fully configurable pipeline — supports both local and endpoint inference<br>
 🔁 Reproducible and extensible framework for code generation research<br>
 
+## 🗞️ Media Coverage
+
+- [Medium: AI Just Learned to Code Like a Human](https://ninza7.medium.com/ai-just-learned-to-code-like-a-human-and-it-changes-everything-ca1835b0d8ab)
+- [MarkTechPost: EG-CFG — Enhancing Code Generation with Real-Time Execution Feedback](https://www.marktechpost.com/2025/07/18/eg-cfg-enhancing-code-generation-with-real-time-execution-feedback/)
+- [Medium: New AI Technique Makes LLMs Write Code More Like Real Programmers](https://fedecarg.medium.com/new-ai-technique-makes-llms-write-code-more-like-real-programmers-3c84ec4fcf18)
+- [note.com (Japanese): Execution-Guided Code Generation Explained](https://note.com/life_to_ai/n/n644a89ac79a0)
+
 ## 🧠 Models
 
 EG-CFG supports any causal language model that provides token-level log probabilities. In our experiments, we use two models from the **DeepSeek** family:
